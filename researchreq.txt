@@ -1,0 +1,24 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+absl-py=1.2.0=pypi_0
+c-ares=1.18.1=h7f8727e_0
+ca-certificates=2022.07.19=h06a4308_0
+dask-core=2021.3.0=pyhd3eb1b0_0
+importlib-metadata=4.8.3=pypi_0
+intel-openmp=2022.1.0=h9e868ea_3769
+keras-applications=1.0.8=py_1
+keras-preprocessing=1.1.2=pyhd3eb1b0_0
+libgcc-ng=11.2.0=h1234567_1
+libgfortran-ng=7.5.0=ha8ba4b0_17
+libstdcxx-ng=11.2.0=h1234567_1
+libwebp-base=1.2.2=h7f8727e_0
+lz4-c=1.9.3=h295c915_1
+matplotlib-base=3.3.4=py36h62a2d02_0
+mkl-service=2.3.0=py36he8ac12f_0
+numpy-base=1.19.2=py36hfa32c7d_0
+python-dateutil=2.8.2=pyhd3eb1b0_0
+scikit-image=0.17.2=py36hdf5156a_0
+scikit-learn=0.24.2=py36ha9443f7_0
+tensorflow-base=1.12.0=gpu_py36h8e0ae2d_0
+tensorflow-gpu=1.1.0=pypi_0
